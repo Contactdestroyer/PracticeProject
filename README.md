@@ -1,3 +1,3 @@
 # PracticeProject
 
-123456789
+"What is reality? Obviously, no one can say, because it isnt words."
